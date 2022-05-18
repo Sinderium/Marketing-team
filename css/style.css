@@ -3,7 +3,7 @@ body {
     font-family: 'Roboto', sans-serif; 
     color: black;   
     font-size: 14px;
-    overflow-x:hidden;
+    
  } 
 
 .wrapper{
@@ -72,7 +72,7 @@ body {
     max-width: 500px;
 }
 .baner p{
-    max-width: 484px;
+    width: 484px;
     line-height: 180%;
     font-size: 16px;
 }
