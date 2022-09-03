@@ -78,7 +78,7 @@ body {
 }
 
 .baner{
-    background-image: url(/ing/baner1.png);
+    background-image: url(../ing/baner1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 80%;
